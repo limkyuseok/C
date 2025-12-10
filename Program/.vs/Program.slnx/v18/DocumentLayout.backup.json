@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB877D9-76C2-481F-8260-1BCBC9F79596}|Program.vcxproj|C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\Program\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB877D9-76C2-481F-8260-1BCBC9F79596}|Program.vcxproj|solutionrelative:Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\Program\\Main.c",
+              "RelativeDocumentMoniker": "Main.c",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\Program\\Main.c*",
+              "RelativeToolTip": "Main.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-10T12:23:09.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
