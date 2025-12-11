@@ -1,10 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEB877D9-76C2-481F-8260-1BCBC9F79596}|Program.vcxproj|C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\Program\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DEB877D9-76C2-481F-8260-1BCBC9F79596}|Program.vcxproj|C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DEB877D9-76C2-481F-8260-1BCBC9F79596}|Program.vcxproj|solutionrelative:Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4751C22E-79FC-4438-A0CE-ACA66F2D765F}|..\\Class 1th (Compile)\\Class 1th (Compile).vcxproj|C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class 1th (Compile)\\Souce.C||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +28,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAAO8BAAAAAAAAAAAjwIUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T12:22:31.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Souce.C",
+              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class 1th (Compile)\\Souce.C",
+              "RelativeDocumentMoniker": "..\\Class 1th (Compile)\\Souce.C",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class 1th (Compile)\\Souce.C",
+              "RelativeToolTip": "..\\Class 1th (Compile)\\Souce.C",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-11T11:23:42.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.c",
-              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\Program\\Main.c",
+              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Main.c",
               "RelativeDocumentMoniker": "Main.c",
-              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\Program\\Main.c*",
-              "RelativeToolTip": "Main.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Main.c",
+              "RelativeToolTip": "Main.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-10T12:23:09.55Z",
               "EditorCaption": ""
