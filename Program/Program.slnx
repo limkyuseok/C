@@ -4,5 +4,6 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="../Class 1th (Compile)/Class 1th (Compile).vcxproj" Id="4751c22e-79fc-4438-a0ce-aca66f2d765f" />
+  <Project Path="../Class2th (Variable &amp; Constant)/Class2th (Variable &amp; Constant).vcxproj" Id="c8b8f313-055d-446d-93dc-43c62878a672" />
   <Project Path="Program.vcxproj" Id="deb877d9-76c2-481f-8260-1bcbc9f79596" />
 </Solution>

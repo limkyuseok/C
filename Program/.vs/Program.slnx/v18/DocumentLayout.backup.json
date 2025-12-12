@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{DEB877D9-76C2-481F-8260-1BCBC9F79596}|Program.vcxproj|solutionrelative:Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C8B8F313-055D-446D-93DC-43C62878A672}|..\\Class2th (Variable \u0026 Constant)\\Class2th (Variable \u0026 Constant).vcxproj|C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class2th (Variable \u0026 Constant)\\Souse.c2||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4751C22E-79FC-4438-A0CE-ACA66F2D765F}|..\\Class 1th (Compile)\\Class 1th (Compile).vcxproj|C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class 1th (Compile)\\Souce.C||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -20,7 +23,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,7 +31,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Souse.c2",
+              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class2th (Variable \u0026 Constant)\\Souse.c2",
+              "RelativeDocumentMoniker": "..\\Class2th (Variable \u0026 Constant)\\Souse.c2",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class2th (Variable \u0026 Constant)\\Souse.c2",
+              "RelativeToolTip": "..\\Class2th (Variable \u0026 Constant)\\Souse.c2",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-12T11:35:22.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
@@ -41,13 +57,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Souce.C",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class 1th (Compile)\\Souce.C",
               "RelativeDocumentMoniker": "..\\Class 1th (Compile)\\Souce.C",
               "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class 1th (Compile)\\Souce.C",
               "RelativeToolTip": "..\\Class 1th (Compile)\\Souce.C",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-11T11:23:42.174Z",
               "EditorCaption": ""
@@ -58,9 +74,9 @@
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Main.c",
               "RelativeDocumentMoniker": "Main.c",
-              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Main.c",
-              "RelativeToolTip": "Main.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Main.c*",
+              "RelativeToolTip": "Main.c*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-10T12:23:09.55Z",
               "EditorCaption": ""
