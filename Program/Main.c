@@ -3,41 +3,87 @@
 
 void main()
 {
-#pragma region 오버플로우
-	//특정한 자료형이 표현할 수 있는 최댓값의 범위를
-	//넘어서 연산을 수행하는 과정입니다.
+#pragma region 조건문
+	// 어떤 조건이 주어질 떄 해당 조건에 따라 동작을
+	// 수행하도록 실행하는 명령문입니다.
 
-	/*char storage = 127 + 3;
+#pragma region 관계연산자
+	// 두 개의 피연산자의 값을 비교하여 그 결과를 0 또는
+	// 1이라는 값으로 나타내는 연산자입니다.
 
-	printf("storage = %d\n", storage);*/
+	/*int accuracy = 10;
+	int attack = 20;
 
-	//오버플로우는 부호 없는 자료형에서도 똑같이 발생하며,
-	//실수일 때 오버플로우가 발생하면 infinity라는 값으로 출력됩니다.
+	printf("accuracy < attack : %d\n", accuracy < attack);
+	printf("accuracy > attack : %d\n", accuracy > attack);
+	printf("accuracy <= attack : %d\n", accuracy <= attack);
+	printf("accuracy >= attack : %d\n", accuracy >= attack);
+	printf("accuracy != attack : %d\n", accuracy != attack);
+	printf("accuracy == attack : %d\n", accuracy == attack);*/
+
+	// 관계 연산자는 조건이 맞을 때 1이라는 값으로 반환되며,
+	// 조건이 틀릴 때 0이라는 값으로 반환됩니다.
+
+#pragma endregion
+#pragma region if문
+	// 어떤 특정한 조건을 비교하여 조건이 맞다면 실행되는
+	// 명령문입니다.
+
+	/*int health = 0;
+
+	if (health <= 0) 
+	{
+		printf("destroy\n");
+	}*/
+
+	// if문은 조건이 1일 때 실행되며, 0일 때 실행되지 않습니다.
+
+#pragma endregion
+#pragma region else if문
+	// if문의 조건이 틀릴 때 else if문의 조건이
+	// 맞다면 실행되는 명령문입니다.
+
+	/*int level = 10;
+
+	if (level < 10)
+	{
+		printf("attack\n");
+	}
+	else if (level >= 10)
+	{
+		printf("HP\n");
+	}*/
+
+	// else if문은 여러번 정의할 수 있으며, if문이
+	// 존재할 때 사용할 수 있습니다.
+
+#pragma endregion
+#pragma region else문
+	// if문과 else if문의 조건이 다 틀리면
+	// 실행되는 명령문입니다.
+
+	int integer = 0;
+
+	if (integer > 0)
+	{
+		printf("양수");
+	}
+	else if (integer < 0)
+	{
+		printf("음수");
+	}
+	else
+	{
+		printf("0");
+	}
+
+	// if문에 연결된 모든 조건문의 조건이 맞을 때
+	// 가장 위에 있는 조건문만 실행됩니다.
 
 #pragma endregion
 
-#pragma region 언더플로우
-	//특정한 자료형이 표현할 수 있는 최솟값의 범위를
-	//넘어서 연산을 수행하는 과정입니다.
-
-	/*char data = -128 - 6;
-
-	printf("data 변수의 값 : %d\n", data);*/
-
-	//언더플로우는 부호 없는 자료형에서도 똑같이 발생하며,
-	//실수일 때 언더플로우가 발생하면 0이라는 값으로 출력합니다.
 
 #pragma endregion
 
-#pragma region 부호없는 자료형
-
-	//unsigned int count = 4294967295;
-
-	//[1111 1111] [1111 1111] [1111 1111] [1111 1111]
-	//printf("signed count 변수의 값 : %d\n", count);
-	//[1111 1111] [1111 1111] [1111 1111] [1111 1111]
-	//printf("unsigned count 변수의 값 : %u\n", count);
-
-#pragma endregion
 
 }
