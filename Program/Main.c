@@ -62,7 +62,7 @@ void main()
 	// if문과 else if문의 조건이 다 틀리면
 	// 실행되는 명령문입니다.
 
-	int integer = 0;
+	/*int integer = 0;
 
 	if (integer > 0)
 	{
@@ -75,10 +75,96 @@ void main()
 	else
 	{
 		printf("0");
-	}
+	}*/
 
 	// if문에 연결된 모든 조건문의 조건이 맞을 때
 	// 가장 위에 있는 조건문만 실행됩니다.
+
+#pragma endregion
+#pragma region switch문
+	// 어떤 결과에 따라 그 결과부터 실행되는 명령문입니다.
+
+	/*char grade = 'K';
+
+	switch (grade)
+	{
+	case 'A': printf("100~ 90\n"); break;
+	case 'B': printf("89~ 80\n"); break;
+	case 'C': printf("79~ 70\n"); break;
+	case 'D': printf("69~ 60\n"); break;
+	case 'F': printf("59점 이하\n"); break;
+	default: printf("exception\n"); break;
+	}*/
+	
+	//switch문은 해당 조건이 완료되었을 때, break문이 없으면
+	//나머지 밑에 있는 case문까지 계속 실행시키다가 종료합니다.
+
+	// switch문의 경우 조건에 해당하는 값에 따라 조건의
+	//위치로 이동합니다.
+
+#pragma endregion
+
+#pragma region 논리 연산자
+
+#pragma region AND 연산자
+	
+	// 두 개의 조건이 다 성립될 떄 실행되는 연산자입니다.
+	
+//int score = 60;
+//int attendance = 80;
+//
+//if (score >= 60 && attendance >= 80)
+//{
+//	printf("Graduate");
+//}
+
+// 조건문에서 하나 이상의 조건이 있다면 왼쪽부터 조건을 검사합니다.
+#pragma endregion
+#pragma region OR 연산자
+// 두 개의 조건 중에서 하나라도 조건이 성립될 때 실행되는 연산자입니다.
+
+//int attack = 50;
+//int DPS = 65;
+//
+//if (attack >= 50 || DPS <= 60)
+//{
+//	printf("Damage = 30");
+//}
+
+// 조건문의 논리 표현식을 평가하는 도중에 결과가 이미 확정이 났다면, 그 이후의 평가는 생략합니다.
+
+#pragma endregion
+#pragma region NOT 연산자
+// 하나의 조건을 반전시키는 연산자입니다.
+
+//int power = 1;
+//
+//if (!power)
+//{
+//	printf("the power is on\n");
+//}
+//else
+//{
+//	printf("the power is off\n");
+//}
+#pragma endregion
+
+#pragma region 사분면
+int x = 0;
+int y = 0;
+
+if (x > 0 && y > 0)
+{
+	printf
+}
+
+if (x < 0 && y > 0)
+pos = 2;
+
+if (x )
+
+#pragma endregion
+
 
 #pragma endregion
 
