@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{DEB877D9-76C2-481F-8260-1BCBC9F79596}|Program.vcxproj|solutionrelative:Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3798E4B2-83EF-415C-A6E9-06F3D0834180}|..\\Class7th (Type Conversion)\\Class7th (Type Conversion).vcxproj|C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class7th (Type Conversion)\\Souce.c7||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AA825AC-EDC0-4BBD-8757-6519E5236233}|..\\Class6th (itearation statement)\\Class6th (itearation statement).vcxproj|C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class6th (itearation statement)\\Souce.C6||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -43,9 +46,9 @@
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Main.c",
               "RelativeDocumentMoniker": "Main.c",
-              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Main.c*",
-              "RelativeToolTip": "Main.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Main.c",
+              "RelativeToolTip": "Main.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-10T12:23:09.55Z",
               "IsPinned": true,
@@ -58,6 +61,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Souce.c7",
+              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class7th (Type Conversion)\\Souce.c7",
+              "RelativeDocumentMoniker": "..\\Class7th (Type Conversion)\\Souce.c7",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class7th (Type Conversion)\\Souce.c7",
+              "RelativeToolTip": "..\\Class7th (Type Conversion)\\Souce.c7",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-22T11:04:23.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Souce.C6",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class6th (itearation statement)\\Souce.C6",
               "RelativeDocumentMoniker": "..\\Class6th (itearation statement)\\Souce.C6",
@@ -65,12 +81,11 @@
               "RelativeToolTip": "..\\Class6th (itearation statement)\\Souce.C6",
               "ViewState": "AgIAAFUAAAAAAAAAAAAqwHYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-19T11:21:48.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T11:21:48.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Souce.c5",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class5th (Conditional Statement)\\Souce.c5",
               "RelativeDocumentMoniker": "..\\Class5th (Conditional Statement)\\Souce.c5",
@@ -78,12 +93,11 @@
               "RelativeToolTip": "..\\Class5th (Conditional Statement)\\Souce.c5",
               "ViewState": "AgIAAIEAAAAAAAAAAAAqwLcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-18T11:21:06.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T11:21:06.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Souce.C4",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class4th (Overflow \u0026 Underflow)\\Souce.C4",
               "RelativeDocumentMoniker": "..\\Class4th (Overflow \u0026 Underflow)\\Souce.C4",
@@ -95,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Souce.C3",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class3th (Bit)\\Souce.C3",
               "RelativeDocumentMoniker": "..\\Class3th (Bit)\\Souce.C3",
@@ -107,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Souse.c2",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class2th (Variable \u0026 Constant)\\Souse.c2",
               "RelativeDocumentMoniker": "..\\Class2th (Variable \u0026 Constant)\\Souse.c2",
@@ -119,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Souce.C",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class 1th (Compile)\\Souce.C",
               "RelativeDocumentMoniker": "..\\Class 1th (Compile)\\Souce.C",
@@ -131,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
