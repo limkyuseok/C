@@ -10,5 +10,6 @@
   <Project Path="../Class5th (Conditional Statement)/Class5th (Conditional Statement).vcxproj" Id="c9a1da99-e24c-4d60-86f4-31e8b489e347" />
   <Project Path="../Class6th (itearation statement)/Class6th (itearation statement).vcxproj" Id="8aa825ac-edc0-4bbd-8757-6519e5236233" />
   <Project Path="../Class7th (Type Conversion)/Class7th (Type Conversion).vcxproj" Id="3798e4b2-83ef-415c-a6e9-06f3d0834180" />
+  <Project Path="../Class8th (Pointer)/Class8th (Pointer).vcxproj" Id="f51cd22d-4745-4860-8b94-3d6ac5a40dda" />
   <Project Path="Program.vcxproj" Id="deb877d9-76c2-481f-8260-1bcbc9f79596" />
 </Solution>
