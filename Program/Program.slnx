@@ -4,6 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="../Class 1th (Compile)/Class 1th (Compile).vcxproj" Id="4751c22e-79fc-4438-a0ce-aca66f2d765f" />
+  <Project Path="../Class.9th(Array)/Class.9th(Array).vcxproj" Id="d30a01d7-e824-4409-8f3e-8fbc30a0b5e0" />
   <Project Path="../Class2th (Variable &amp; Constant)/Class2th (Variable &amp; Constant).vcxproj" Id="c8b8f313-055d-446d-93dc-43c62878a672" />
   <Project Path="../Class3th (Bit)/Class3th (Bit).vcxproj" Id="245ee0dc-f7c8-460a-a0f0-06d382de8500" />
   <Project Path="../Class4th (Overflow &amp; Underflow)/Class4th (Overflow &amp; Underflow).vcxproj" Id="58ed7608-f1b6-4a71-9c40-f12672d34d3e" />
