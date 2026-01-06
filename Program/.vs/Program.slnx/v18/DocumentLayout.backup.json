@@ -7,8 +7,7 @@
       "RelativeMoniker": "D:0:0:{DEB877D9-76C2-481F-8260-1BCBC9F79596}|Program.vcxproj|solutionrelative:Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEB877D9-76C2-481F-8260-1BCBC9F79596}|Program.vcxproj|C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DEB877D9-76C2-481F-8260-1BCBC9F79596}|Program.vcxproj|solutionrelative:Utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{09B87178-D1B7-4204-A5AE-E4EBC24D8953}|..\\Class13th (Struct)\\Class13th (Struct).vcxproj|C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class13th (Struct)\\Souce.c13||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -65,9 +64,9 @@
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Main.c",
               "RelativeDocumentMoniker": "Main.c",
-              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Main.c*",
-              "RelativeToolTip": "Main.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Main.c",
+              "RelativeToolTip": "Main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-10T12:23:09.55Z",
               "IsPinned": true,
@@ -76,14 +75,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Utility.h",
-              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Utility.h",
-              "RelativeDocumentMoniker": "Utility.h",
-              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Program\\Utility.h*",
-              "RelativeToolTip": "Utility.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-05T12:33:38.922Z",
+              "Title": "Souce.c13",
+              "DocumentMoniker": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class13th (Struct)\\Souce.c13",
+              "RelativeDocumentMoniker": "..\\Class13th (Struct)\\Souce.c13",
+              "ToolTip": "C:\\Users\\\uC784\uADDC\uC11D\\Desktop\\C\uC5B8\uC5B4\\C\\Class13th (Struct)\\Souce.c13",
+              "RelativeToolTip": "..\\Class13th (Struct)\\Souce.c13",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-06T12:28:01.165Z",
               "EditorCaption": ""
             },
             {
@@ -148,8 +147,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
               "ViewState": "AgIAAHwCAAAAAAAAAAAjwIUCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-11T12:22:31.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-11T12:22:31.89Z"
             },
             {
               "$type": "Document",
@@ -161,8 +159,7 @@
               "RelativeToolTip": "..\\Class12th (Dynamic Allocation)\\Souce.c12",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-05T11:35:01.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T11:35:01.041Z"
             },
             {
               "$type": "Document",
